@@ -1,6 +1,6 @@
 # Youtube_unsupervised_learning
 
-Analyzed trending Youtube videos with various unsupervised learning techniques.
+Analyzed trending Youtube videos with various unsupervised learning techniques.  
 https://www.kaggle.com/datasnaek/youtube-new
 
 <img width="680" alt="screen shot 2018-05-11 at 8 24 17 pm" src="https://user-images.githubusercontent.com/25238494/39951649-e4637dc4-5559-11e8-9cce-8831ca3a1015.png">
